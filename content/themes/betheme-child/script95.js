@@ -47,6 +47,92 @@ jQuery(document).ready(function() {
 
   easterEggCheck();
 
+  function getTorrentURL(imagename) {
+    jQuery('.button-torrent-container').show();
+    let name = '';
+    let cat = '';
+    let id = 0;
+    let hybrid = 0;
+
+    switch(imagename) {
+      case 'bazzite':
+        name = 'bazzite';
+        cat = 'PC%20Editions';
+        id = 0;
+        hybrid = 0;
+        break;
+
+      case 'bazzite-gnome':
+        name = 'bazzite';
+        cat = 'PC%20Editions';
+        id = 1;
+        hybrid = 0;
+        break;
+
+      case 'bazzite-nvidia-open':
+        name = 'bazzite';
+        cat = 'PC%20Editions';
+        id = 2;
+        hybrid = 0;
+        break;
+
+      case 'bazzite-gnome-nvidia-open':
+        name = 'bazzite';
+        cat = 'PC%20Editions';
+        id = 3;
+        hybrid = 0;
+        break;
+
+      case 'bazzite-nvidia':
+        name = 'bazzite';
+        cat = 'PC%20Editions';
+        id = 4;
+        hybrid = 0;
+        break;
+
+      case 'bazzite-gnome-nvidia':
+        name = 'bazzite';
+        cat = 'PC%20Editions';
+        id = 5;
+        hybrid = 0;
+        break;
+
+      case 'bazzite-deck':
+        name = 'bazzite';
+        cat = 'Deck%20Editions';
+        id = 0;
+        hybrid = 0;
+        break;
+
+      case 'bazzite-deck-gnome':
+        name = 'bazzite';
+        cat = 'Deck%20Editions';
+        id = 1;
+        hybrid = 0;
+        break;
+
+      case 'bazzite-deck-nvidia':
+        name = 'bazzite';
+        cat = 'Deck%20Editions';
+        id = 2;
+        hybrid = 0;
+        break;
+
+      case 'bazzite-deck-nvidia-gnome':
+        name = 'bazzite';
+        cat = 'Deck%20Editions';
+        id = 3;
+        hybrid = 0;
+        break;
+
+      default:
+        jQuery('.button-torrent-container').hide();
+        break;
+    }
+
+    return 'https://fosstorrents.com/thankyou/?name=' + name + '&cat=' + cat + '&id=' + id + '&hybrid=' + hybrid;
+  }
+
   function animateWordChange(elem) {
       let words = document.querySelectorAll(elem);
       let wordArray = [];
@@ -519,7 +605,7 @@ jQuery(document).ready(function() {
       jQuery('#image-builder-result').removeClass('hidden-fade').addClass('shown-fade');
       jQuery('#image-builder-result .image-name').text(imagename);
       jQuery('.button-download').attr('href', 'https://download.bazzite.gg/' + imagename + '-stable-amd64.iso');
-      //jQuery('.button-torrent').attr('href', 'https://archive.org/download/' + imagename + '/' + imagename + '_archive.torrent');
+      jQuery('.button-torrent').attr('href', getTorrentURL(imagename));
       jQuery('.sha256').attr('href', 'https://download.bazzite.gg/' + imagename + '-stable-amd64.iso-CHECKSUM');
       jQuery('.ghcr-details').attr('href', 'https://ghcr.io/ublue-os/' + imagename);
 
