@@ -6437,6 +6437,12 @@
 												</div>
 											</div>
 										</div>
+										<div id="countme" style="animation-delay:240ms;" class="wrap mcb-wrap mcb-wrap-2215d7381 one tablet-one laptop-one mobile-one animate clearfix" data-desktop-col="one-third" data-laptop-col="laptop-one-third" data-tablet-col="tablet-one-third" data-mobile-col="mobile-one" data-anim-type="fadeInUp">
+											<div class="mcb-wrap-inner mcb-wrap-inner-2215d7381 mfn-module-wrapper mfn-wrapper-for-wraps">
+												<div class="mcb-wrap-background-overlay" style="pointer-events:none;"></div>
+												<iframe id="analytics-frame" src="analytics/90days/index.html" allowtransparency="true"></iframe>
+											</div>
+										</div>
 										<div id="press" class="wrap mcb-wrap mcb-wrap-tc7x20tbk one tablet-one laptop-one mobile-one clearfix" data-desktop-col="one" data-laptop-col="laptop-one" data-tablet-col="tablet-one" data-mobile-col="mobile-one" style="">
 											<div class="mcb-wrap-inner mcb-wrap-inner-tc7x20tbk mfn-module-wrapper mfn-wrapper-for-wraps">
 												<div class="mcb-wrap-background-overlay"></div>
@@ -7337,5 +7343,11 @@ https://www.forbes.com/sites/jasonevangelho/2024/12/03/5-reasons-you-should-run-
 		<script type="text/javascript" src="https:///universal-blue.discourse.group/javascripts/embed-topics.js" id="discourse-js" defer></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.8.1/vanilla-tilt.min.js" integrity="sha512-wC/cunGGDjXSl9OHUH0RuqSyW4YNLlsPwhcLxwWW1CR4OeC2E1xpcdZz2DeQkEmums41laI+eGMw95IJ15SS3g==" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
 		<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/marked/marked.min.js" defer></script>
+		<script src="https://cdn.jsdelivr.net/npm/@iframe-resizer/parent@5.4.3"></script>
+		<script type="text/javascript">
+            iframeResize({
+                license: 'GPLv3',
+            }, '#analytics-frame' );
+		</script>
 	</body>
 </html>
