@@ -3,7 +3,7 @@ on:
   schedule: [{cron: "0 1 1 * *"}]
   workflow_dispatch:
 jobs:
-  90days-report-update:
+  community-report-update:
     runs-on: ubuntu-latest
     permissions:
       contents: write
