@@ -12,7 +12,6 @@ jobs:
         run: |
           rm -f analytics/90days/index.html
           wget --limit-rate=200k --no-clobber --convert-links --random-wait -r -p -E -e robots=off -P analytics/90days/ -nH --cut-dirs=3 -U mozilla https://savannahcrm.com/public/overview/d3a3f14b-f794-4578-ac7d-57f3ba366a99/
-          mv analytics/90days/*.html analytics/90days/index.html
           sed -i '/<\/head>/i <link rel="stylesheet" href="https://bazzite.gg/analytics/override.css">\n<script src="https://cdn.jsdelivr.net/npm/@iframe-resizer/child@5.4.3" type="text/javascript" async></script>' analytics/90days/index.html
           sed -i 's|target="_blank" href="index.html"|target="_blank" href="https://www.savannahhq.com/"|g' analytics/90days/index.html
           sed -i 's|90 Days Overview|Community Overview (90 Days)|g' analytics/90days/index.html
