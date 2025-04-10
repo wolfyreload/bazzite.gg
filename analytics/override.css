@@ -22,3 +22,7 @@ a {
   color: #6c3fc4;
   text-decoration:underline;
 }
+
+a:hover {
+  color: #280f5b;
+}
