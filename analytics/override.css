@@ -17,3 +17,8 @@ body {
 .text-gray-800 {
   color:#262626!important;
 }
+
+a {
+  color: #6c3fc4;
+  text-decoration:underline;
+}
