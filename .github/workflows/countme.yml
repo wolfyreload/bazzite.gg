@@ -10,7 +10,8 @@ jobs:
     steps:
       - name: Download File
         run: |
-          curl https://raw.githubusercontent.com/ublue-os/countme/refs/heads/main/growth_bazzite.svg --output ./countme.svg
+          curl https://raw.githubusercontent.com/ublue-os/countme/refs/heads/main/growth_bazzite.svg --output countme.svg
+          sed -i 's/#ffaabb;/#6c3fc4;/g' countme.svg
         working-directory: ${{ github.workspace }}
 
       - name: Write countme.svg to Repostiory
