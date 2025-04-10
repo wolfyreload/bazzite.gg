@@ -26,3 +26,7 @@ a {
 a:hover {
   color: #280f5b;
 }
+
+.text-primary {
+  color: #6c3fc4 !important;
+}
