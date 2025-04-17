@@ -374,7 +374,7 @@ jQuery(document).ready(function() {
     }
   });
 
-  const desktopHardware = ['desktop', 'laptop', 'surface', 'framework', 'framework-desktop', 'asus-flow', 'minisforum', 'asus', 'virtualmachine'];
+  const desktopHardware = ['desktop', 'laptop', 'surface', 'framework', 'framework-desktop', 'asus-flow', 'minisforum', 'asus', 'virtualmachine', 'htpc'];
   const apuHardware = ['framework-desktop', 'asus-flow', 'minisforum'];
   const gamemodeHardware = ['htpc'];
   const handheldHardware = ['steamdeck', 'ally', 'legion', 'gpd', 'ayn', 'handheld', 'onexplayer', 'claw'];
