@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 4301
+    "contributions": 4306
   },
   {
     "login": "EyeCantCU",
@@ -107,7 +107,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 108
+    "contributions": 111
   },
   {
     "login": "Zeglius",
@@ -129,7 +129,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 82
+    "contributions": 84
   },
   {
     "login": "noelmiller",
@@ -506,28 +506,6 @@
     "contributions": 8
   },
   {
-    "login": "tulilirockz",
-    "id": 120808662,
-    "node_id": "U_kgDOBzNk1g",
-    "avatar_url": "https://avatars.githubusercontent.com/u/120808662?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/tulilirockz",
-    "html_url": "https://github.com/tulilirockz",
-    "followers_url": "https://api.github.com/users/tulilirockz/followers",
-    "following_url": "https://api.github.com/users/tulilirockz/following{/other_user}",
-    "gists_url": "https://api.github.com/users/tulilirockz/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/tulilirockz/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/tulilirockz/subscriptions",
-    "organizations_url": "https://api.github.com/users/tulilirockz/orgs",
-    "repos_url": "https://api.github.com/users/tulilirockz/repos",
-    "events_url": "https://api.github.com/users/tulilirockz/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/tulilirockz/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 6
-  },
-  {
     "login": "wolfyreload",
     "id": 5320719,
     "node_id": "MDQ6VXNlcjUzMjA3MTk=",
@@ -544,6 +522,28 @@
     "repos_url": "https://api.github.com/users/wolfyreload/repos",
     "events_url": "https://api.github.com/users/wolfyreload/events{/privacy}",
     "received_events_url": "https://api.github.com/users/wolfyreload/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 7
+  },
+  {
+    "login": "tulilirockz",
+    "id": 120808662,
+    "node_id": "U_kgDOBzNk1g",
+    "avatar_url": "https://avatars.githubusercontent.com/u/120808662?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tulilirockz",
+    "html_url": "https://github.com/tulilirockz",
+    "followers_url": "https://api.github.com/users/tulilirockz/followers",
+    "following_url": "https://api.github.com/users/tulilirockz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tulilirockz/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tulilirockz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tulilirockz/subscriptions",
+    "organizations_url": "https://api.github.com/users/tulilirockz/orgs",
+    "repos_url": "https://api.github.com/users/tulilirockz/repos",
+    "events_url": "https://api.github.com/users/tulilirockz/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tulilirockz/received_events",
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
