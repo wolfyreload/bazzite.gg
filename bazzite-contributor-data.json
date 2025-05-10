@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 4307
+    "contributions": 4309
   },
   {
     "login": "EyeCantCU",
@@ -107,7 +107,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 120
+    "contributions": 122
   },
   {
     "login": "Zeglius",
@@ -198,6 +198,28 @@
     "contributions": 36
   },
   {
+    "login": "castrojo",
+    "id": 1264109,
+    "node_id": "MDQ6VXNlcjEyNjQxMDk=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/1264109?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/castrojo",
+    "html_url": "https://github.com/castrojo",
+    "followers_url": "https://api.github.com/users/castrojo/followers",
+    "following_url": "https://api.github.com/users/castrojo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/castrojo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/castrojo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/castrojo/subscriptions",
+    "organizations_url": "https://api.github.com/users/castrojo/orgs",
+    "repos_url": "https://api.github.com/users/castrojo/repos",
+    "events_url": "https://api.github.com/users/castrojo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/castrojo/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 27
+  },
+  {
     "login": "fiftydinar",
     "id": 65243233,
     "node_id": "MDQ6VXNlcjY1MjQzMjMz",
@@ -240,28 +262,6 @@
     "user_view_type": "public",
     "site_admin": false,
     "contributions": 27
-  },
-  {
-    "login": "castrojo",
-    "id": 1264109,
-    "node_id": "MDQ6VXNlcjEyNjQxMDk=",
-    "avatar_url": "https://avatars.githubusercontent.com/u/1264109?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/castrojo",
-    "html_url": "https://github.com/castrojo",
-    "followers_url": "https://api.github.com/users/castrojo/followers",
-    "following_url": "https://api.github.com/users/castrojo/following{/other_user}",
-    "gists_url": "https://api.github.com/users/castrojo/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/castrojo/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/castrojo/subscriptions",
-    "organizations_url": "https://api.github.com/users/castrojo/orgs",
-    "repos_url": "https://api.github.com/users/castrojo/repos",
-    "events_url": "https://api.github.com/users/castrojo/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/castrojo/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 26
   },
   {
     "login": "aarron-lee",
