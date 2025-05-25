@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 4327
+    "contributions": 4336
   },
   {
     "login": "EyeCantCU",
@@ -107,7 +107,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 131
+    "contributions": 132
   },
   {
     "login": "Zeglius",
@@ -286,6 +286,28 @@
     "contributions": 23
   },
   {
+    "login": "xXJSONDeruloXx",
+    "id": 136133082,
+    "node_id": "U_kgDOCB052g",
+    "avatar_url": "https://avatars.githubusercontent.com/u/136133082?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/xXJSONDeruloXx",
+    "html_url": "https://github.com/xXJSONDeruloXx",
+    "followers_url": "https://api.github.com/users/xXJSONDeruloXx/followers",
+    "following_url": "https://api.github.com/users/xXJSONDeruloXx/following{/other_user}",
+    "gists_url": "https://api.github.com/users/xXJSONDeruloXx/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/xXJSONDeruloXx/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/xXJSONDeruloXx/subscriptions",
+    "organizations_url": "https://api.github.com/users/xXJSONDeruloXx/orgs",
+    "repos_url": "https://api.github.com/users/xXJSONDeruloXx/repos",
+    "events_url": "https://api.github.com/users/xXJSONDeruloXx/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/xXJSONDeruloXx/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 20
+  },
+  {
     "login": "RodoMa92",
     "id": 16669146,
     "node_id": "MDQ6VXNlcjE2NjY5MTQ2",
@@ -325,28 +347,6 @@
     "events_url": "https://api.github.com/users/renovate%5Bbot%5D/events{/privacy}",
     "received_events_url": "https://api.github.com/users/renovate%5Bbot%5D/received_events",
     "type": "Bot",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 18
-  },
-  {
-    "login": "xXJSONDeruloXx",
-    "id": 136133082,
-    "node_id": "U_kgDOCB052g",
-    "avatar_url": "https://avatars.githubusercontent.com/u/136133082?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/xXJSONDeruloXx",
-    "html_url": "https://github.com/xXJSONDeruloXx",
-    "followers_url": "https://api.github.com/users/xXJSONDeruloXx/followers",
-    "following_url": "https://api.github.com/users/xXJSONDeruloXx/following{/other_user}",
-    "gists_url": "https://api.github.com/users/xXJSONDeruloXx/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/xXJSONDeruloXx/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/xXJSONDeruloXx/subscriptions",
-    "organizations_url": "https://api.github.com/users/xXJSONDeruloXx/orgs",
-    "repos_url": "https://api.github.com/users/xXJSONDeruloXx/repos",
-    "events_url": "https://api.github.com/users/xXJSONDeruloXx/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/xXJSONDeruloXx/received_events",
-    "type": "User",
     "user_view_type": "public",
     "site_admin": false,
     "contributions": 18
