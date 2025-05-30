@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 4336
+    "contributions": 4342
   },
   {
     "login": "EyeCantCU",
@@ -66,28 +66,6 @@
     "contributions": 168
   },
   {
-    "login": "HikariKnight",
-    "id": 2557889,
-    "node_id": "MDQ6VXNlcjI1NTc4ODk=",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2557889?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/HikariKnight",
-    "html_url": "https://github.com/HikariKnight",
-    "followers_url": "https://api.github.com/users/HikariKnight/followers",
-    "following_url": "https://api.github.com/users/HikariKnight/following{/other_user}",
-    "gists_url": "https://api.github.com/users/HikariKnight/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/HikariKnight/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/HikariKnight/subscriptions",
-    "organizations_url": "https://api.github.com/users/HikariKnight/orgs",
-    "repos_url": "https://api.github.com/users/HikariKnight/repos",
-    "events_url": "https://api.github.com/users/HikariKnight/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/HikariKnight/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 132
-  },
-  {
     "login": "antheas",
     "id": 5252246,
     "node_id": "MDQ6VXNlcjUyNTIyNDY=",
@@ -104,6 +82,28 @@
     "repos_url": "https://api.github.com/users/antheas/repos",
     "events_url": "https://api.github.com/users/antheas/events{/privacy}",
     "received_events_url": "https://api.github.com/users/antheas/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 133
+  },
+  {
+    "login": "HikariKnight",
+    "id": 2557889,
+    "node_id": "MDQ6VXNlcjI1NTc4ODk=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2557889?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/HikariKnight",
+    "html_url": "https://github.com/HikariKnight",
+    "followers_url": "https://api.github.com/users/HikariKnight/followers",
+    "following_url": "https://api.github.com/users/HikariKnight/following{/other_user}",
+    "gists_url": "https://api.github.com/users/HikariKnight/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/HikariKnight/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/HikariKnight/subscriptions",
+    "organizations_url": "https://api.github.com/users/HikariKnight/orgs",
+    "repos_url": "https://api.github.com/users/HikariKnight/repos",
+    "events_url": "https://api.github.com/users/HikariKnight/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/HikariKnight/received_events",
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
@@ -129,7 +129,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 90
+    "contributions": 91
   },
   {
     "login": "noelmiller",
@@ -305,7 +305,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 20
+    "contributions": 22
   },
   {
     "login": "RodoMa92",
