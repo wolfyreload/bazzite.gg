@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 4400
+    "contributions": 4417
   },
   {
     "login": "EyeCantCU",
@@ -85,7 +85,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 139
+    "contributions": 143
   },
   {
     "login": "HikariKnight",
@@ -129,7 +129,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 99
+    "contributions": 105
   },
   {
     "login": "noelmiller",
@@ -217,7 +217,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 29
+    "contributions": 31
   },
   {
     "login": "castrojo",
@@ -239,7 +239,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 28
+    "contributions": 29
   },
   {
     "login": "fiftydinar",
@@ -286,6 +286,28 @@
     "contributions": 27
   },
   {
+    "login": "renovate[bot]",
+    "id": 29139614,
+    "node_id": "MDM6Qm90MjkxMzk2MTQ=",
+    "avatar_url": "https://avatars.githubusercontent.com/in/2740?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/renovate%5Bbot%5D",
+    "html_url": "https://github.com/apps/renovate",
+    "followers_url": "https://api.github.com/users/renovate%5Bbot%5D/followers",
+    "following_url": "https://api.github.com/users/renovate%5Bbot%5D/following{/other_user}",
+    "gists_url": "https://api.github.com/users/renovate%5Bbot%5D/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/renovate%5Bbot%5D/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/renovate%5Bbot%5D/subscriptions",
+    "organizations_url": "https://api.github.com/users/renovate%5Bbot%5D/orgs",
+    "repos_url": "https://api.github.com/users/renovate%5Bbot%5D/repos",
+    "events_url": "https://api.github.com/users/renovate%5Bbot%5D/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/renovate%5Bbot%5D/received_events",
+    "type": "Bot",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 23
+  },
+  {
     "login": "aarron-lee",
     "id": 9145965,
     "node_id": "MDQ6VXNlcjkxNDU5NjU=",
@@ -306,28 +328,6 @@
     "user_view_type": "public",
     "site_admin": false,
     "contributions": 23
-  },
-  {
-    "login": "renovate[bot]",
-    "id": 29139614,
-    "node_id": "MDM6Qm90MjkxMzk2MTQ=",
-    "avatar_url": "https://avatars.githubusercontent.com/in/2740?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/renovate%5Bbot%5D",
-    "html_url": "https://github.com/apps/renovate",
-    "followers_url": "https://api.github.com/users/renovate%5Bbot%5D/followers",
-    "following_url": "https://api.github.com/users/renovate%5Bbot%5D/following{/other_user}",
-    "gists_url": "https://api.github.com/users/renovate%5Bbot%5D/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/renovate%5Bbot%5D/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/renovate%5Bbot%5D/subscriptions",
-    "organizations_url": "https://api.github.com/users/renovate%5Bbot%5D/orgs",
-    "repos_url": "https://api.github.com/users/renovate%5Bbot%5D/repos",
-    "events_url": "https://api.github.com/users/renovate%5Bbot%5D/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/renovate%5Bbot%5D/received_events",
-    "type": "Bot",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 22
   },
   {
     "login": "RodoMa92",
@@ -550,6 +550,28 @@
     "contributions": 6
   },
   {
+    "login": "renner0e",
+    "id": 80410025,
+    "node_id": "MDQ6VXNlcjgwNDEwMDI1",
+    "avatar_url": "https://avatars.githubusercontent.com/u/80410025?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/renner0e",
+    "html_url": "https://github.com/renner0e",
+    "followers_url": "https://api.github.com/users/renner0e/followers",
+    "following_url": "https://api.github.com/users/renner0e/following{/other_user}",
+    "gists_url": "https://api.github.com/users/renner0e/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/renner0e/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/renner0e/subscriptions",
+    "organizations_url": "https://api.github.com/users/renner0e/orgs",
+    "repos_url": "https://api.github.com/users/renner0e/repos",
+    "events_url": "https://api.github.com/users/renner0e/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/renner0e/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 6
+  },
+  {
     "login": "tulilirockz",
     "id": 120808662,
     "node_id": "U_kgDOBzNk1g",
@@ -570,28 +592,6 @@
     "user_view_type": "public",
     "site_admin": false,
     "contributions": 6
-  },
-  {
-    "login": "renner0e",
-    "id": 80410025,
-    "node_id": "MDQ6VXNlcjgwNDEwMDI1",
-    "avatar_url": "https://avatars.githubusercontent.com/u/80410025?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/renner0e",
-    "html_url": "https://github.com/renner0e",
-    "followers_url": "https://api.github.com/users/renner0e/followers",
-    "following_url": "https://api.github.com/users/renner0e/following{/other_user}",
-    "gists_url": "https://api.github.com/users/renner0e/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/renner0e/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/renner0e/subscriptions",
-    "organizations_url": "https://api.github.com/users/renner0e/orgs",
-    "repos_url": "https://api.github.com/users/renner0e/repos",
-    "events_url": "https://api.github.com/users/renner0e/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/renner0e/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 5
   },
   {
     "login": "aaron-trout",
