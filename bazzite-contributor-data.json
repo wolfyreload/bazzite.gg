@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 4417
+    "contributions": 4432
   },
   {
     "login": "EyeCantCU",
@@ -85,7 +85,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 143
+    "contributions": 147
   },
   {
     "login": "HikariKnight",
@@ -129,7 +129,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 105
+    "contributions": 106
   },
   {
     "login": "noelmiller",
@@ -217,7 +217,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 31
+    "contributions": 33
   },
   {
     "login": "castrojo",
@@ -594,28 +594,6 @@
     "contributions": 6
   },
   {
-    "login": "aaron-trout",
-    "id": 2394679,
-    "node_id": "MDQ6VXNlcjIzOTQ2Nzk=",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2394679?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/aaron-trout",
-    "html_url": "https://github.com/aaron-trout",
-    "followers_url": "https://api.github.com/users/aaron-trout/followers",
-    "following_url": "https://api.github.com/users/aaron-trout/following{/other_user}",
-    "gists_url": "https://api.github.com/users/aaron-trout/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/aaron-trout/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/aaron-trout/subscriptions",
-    "organizations_url": "https://api.github.com/users/aaron-trout/orgs",
-    "repos_url": "https://api.github.com/users/aaron-trout/repos",
-    "events_url": "https://api.github.com/users/aaron-trout/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/aaron-trout/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 5
-  },
-  {
     "login": "Gecked-Deck",
     "id": 104325921,
     "node_id": "U_kgDOBjfjIQ",
@@ -632,6 +610,28 @@
     "repos_url": "https://api.github.com/users/Gecked-Deck/repos",
     "events_url": "https://api.github.com/users/Gecked-Deck/events{/privacy}",
     "received_events_url": "https://api.github.com/users/Gecked-Deck/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 5
+  },
+  {
+    "login": "aaron-trout",
+    "id": 2394679,
+    "node_id": "MDQ6VXNlcjIzOTQ2Nzk=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2394679?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/aaron-trout",
+    "html_url": "https://github.com/aaron-trout",
+    "followers_url": "https://api.github.com/users/aaron-trout/followers",
+    "following_url": "https://api.github.com/users/aaron-trout/following{/other_user}",
+    "gists_url": "https://api.github.com/users/aaron-trout/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/aaron-trout/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/aaron-trout/subscriptions",
+    "organizations_url": "https://api.github.com/users/aaron-trout/orgs",
+    "repos_url": "https://api.github.com/users/aaron-trout/repos",
+    "events_url": "https://api.github.com/users/aaron-trout/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/aaron-trout/received_events",
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
