@@ -711,7 +711,7 @@ code {
 }
 
 .gamemode label::after {
-  content: '(Bazzite-Deck images are intended for handheld or HTPC setups and only supports only a single user.)';
+  content: '(Bazzite-Deck images are intended for handheld or HTPC setups and only supports a single user.)';
   width: 100%;
   display: inline-block;
   font-weight: 300;
