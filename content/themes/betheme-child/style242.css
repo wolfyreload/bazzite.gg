@@ -711,7 +711,7 @@ code {
 }
 
 .gamemode label::after {
-  content: '(This is intended for handheld or HTPC setups and forces Bazzite to automatically boot into Steam Gaming Mode which supports only a single Linux user.)';
+  content: '(Bazzite-Deck images are intended for handheld or HTPC setups and only supports only a single user.)';
   width: 100%;
   display: inline-block;
   font-weight: 300;
