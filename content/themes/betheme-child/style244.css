@@ -805,6 +805,15 @@ code {
   font-size: 17px;
 }
 
+.bazaar-icon {
+  position: absolute;
+  bottom: -25px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  filter: drop-shadow(0px 10px 5px rgba(0,0,0,0.3));
+}
+
 .answer-overflow-icon:hover {
   filter: brightness(0.8);
 }
@@ -1718,7 +1727,7 @@ d-topics-list > iframe {
   }
 
   #apps .app-background-container {
-    top: 68%!important;
+    top: 70%!important;
   }
 
   .apps-fade::after {
@@ -1784,7 +1793,7 @@ d-topics-list > iframe {
   }
 
   #apps .app-background-container {
-    top: 58%!important;
+    top: 65%!important;
   }
 
   .mcb-wrap-inner-f6578f479 .image-container {
