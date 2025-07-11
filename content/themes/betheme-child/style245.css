@@ -41,7 +41,7 @@ Version: 2.0.1
 }
 
 .mcb-section-86dec4e7c {
-  background-color: #1c1c1c!important;
+  background-color: #081740 !important;
 }
 
 .mcb-item-d69573929.column {
@@ -86,7 +86,7 @@ Version: 2.0.1
 }
 
 .apps-fade::after {
-  background: radial-gradient(#1c1c1c 10%, rgba(0,0,0,0) 100%);
+  background: radial-gradient(#081740 10%, rgba(0,0,0,0) 100%);
   top: 0;
   width: 100%;
   height: 100%;
