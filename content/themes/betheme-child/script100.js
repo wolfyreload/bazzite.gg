@@ -601,6 +601,7 @@ jQuery(document).ready(function() {
       jQuery('#image-builder-result').removeClass('hidden-fade').addClass('shown-fade');
       jQuery('#image-builder-result .image-name').text(imagename);
       jQuery('.button-download').attr('href', 'https://download.bazzite.gg/' + imagename + '-stable-amd64.iso');
+      jQuery('.button-liveiso').attr('href', 'https://download.bazzite.gg/' + imagename + '-stable-live.iso');
       jQuery('.button-torrent').attr('href', getTorrentURL(imagename));
       jQuery('.sha256').attr('href', 'https://download.bazzite.gg/' + imagename + '-stable-amd64.iso-CHECKSUM');
       jQuery('.ghcr-details').attr('href', 'https://ghcr.io/ublue-os/' + imagename);

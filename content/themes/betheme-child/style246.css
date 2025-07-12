@@ -425,12 +425,14 @@ code {
 }
 
 .button-download-container,
-.button-torrent-container {
+.button-torrent-container,
+.button-liveiso-container {
   margin: 20px 0px;
 }
 
 .button-download,
-.button-torrent {
+.button-torrent,
+.button-liveiso {
   background-image: linear-gradient(130deg, rgb(5, 70, 173) 0%, rgb(138, 43, 226) 100%);
   background-color: rgb(5, 70, 173)!important;
   overflow: visible;
@@ -441,24 +443,29 @@ code {
 }
 
 .button-download:hover,
-.button-torrent:hover {
+.button-torrent:hover,
+.button-liveiso:hover {
   background-image: none;
   background-color:#000!important;
 }
 
 .button-download > .button_label,
-.button-torrent > .button_label {
+.button-torrent > .button_label,
+.button-liveiso > .button_label {
   line-height: 18px;
 }
 
 .button-download > .button_label,
 .button-download > .button_icon,
 .button-torrent > .button_label,
-.button-torrent > .button_icon {
+.button-torrent > .button_icon,
+.button-liveiso > .button_label,
+.button-liveiso > .button_icon {
   color: #fff;
 }
 
-.button-torrent {
+.button-torrent,
+.button-liveiso {
   background-image: none;
   background: #5643b4 !important;
 }
@@ -466,6 +473,11 @@ code {
 .button-torrent .button_icon {
   margin-top: -3px;
   margin-bottom: -3px;
+}
+
+.button-liveiso .button_icon {
+  margin-top: 2px;
+  margin-left: 10px;
 }
 
 .glow-effect::after {
