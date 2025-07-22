@@ -714,6 +714,18 @@ code {
 
 #hardware .fa-gamepad {
   color: #7148b7;
+  font-family:"FiraCode Nerd Font"!important;
+  left: -7px;
+  font-size: 75px;
+  --fa: "󰖺";
+}
+
+.fa-comment-alt.discourse {
+  font-family: "FiraCode Nerd Font" !important;
+  --fa: '';
+  font-size: 17px;
+  top: -2px;
+  position: relative;
 }
 
 #hardware .fa-computer {
