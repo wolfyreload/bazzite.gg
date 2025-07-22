@@ -277,12 +277,25 @@ select:focus {
   background: #000;
   border: none;
   padding: 0px 5px;
-  font-family: 'Fira Code' !important;
+  font-family: 'FiraCode Nerd Font' !important;
   font-size: 11px;
   user-select: all;
   cursor: pointer;
   display: inline-block;
   margin: 0px;
+}
+
+.nerd-icon,
+.nerd-icon-inline {
+  font-family: 'FiraCode Nerd Font';
+  padding-right: 12px;
+  font-size: 20px;
+  top: 1px;
+  position: relative;
+}
+
+.nerd-icon-inline {
+  padding-left: 5px;
 }
 
 .changelog ul {
@@ -324,7 +337,7 @@ code {
   padding: 5px;
   background: #000;
   border-radius: 5px;
-  font-family: 'Fira Code'!important;
+  font-family: 'FiraCode Nerd Font'!important;
   font-size: 10px;
   line-height: 14px;
   user-select: all;
@@ -373,7 +386,7 @@ code {
   padding: 10px;
   font-size: 10px;
   line-height:25px;
-  font-family: 'Fira Code';
+  font-family: 'FiraCode Nerd Font';
   user-select: all;
   cursor: pointer;
   display: inline-block;
@@ -381,7 +394,7 @@ code {
 }
 
 .command-nobg {
-  font-family: 'Fira Code';
+  font-family: 'FiraCode Nerd Font';
   font-size: 12px;
   font-style: normal;
   color: #fff;
@@ -1081,7 +1094,7 @@ section:not(.dark) .rainbow {
     padding: 0;
     margin-left: 10px;
     margin-right: 10px;
-    font-family: 'Fira Code';
+    font-family: 'FiraCode Nerd Font';
 }
 
 .github-profile-badge {
