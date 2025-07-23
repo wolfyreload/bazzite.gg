@@ -44,6 +44,15 @@ Version: 2.0.1
   background-color: #081740 !important;
 }
 
+.scroll-fade {
+  transition: opacity 0.5s ease-in-out;
+  opacity: 1;
+}
+
+.scroll-fade.fade-out {
+  opacity: 0;
+}
+
 .mcb-item-d69573929.column {
   margin-top: 15px;
   margin-bottom: 25px;
