@@ -47,13 +47,19 @@ jQuery(document).ready(function() {
 
   easterEggCheck();
 
-  jQuery(window).on('scroll', function () {
-    if (jQuery(this).scrollTop() > 30) {
+  function checkScroll() {
+    if (jQuery(window).scrollTop() > 30) {
       jQuery('.scroll-fade').addClass('fade-out');
     } else {
       jQuery('.scroll-fade').removeClass('fade-out');
     }
+  }
+
+  jQuery(window).on('scroll', function () {
+    checkScroll();
   });
+
+  checkScroll();
 
   function getTorrentURL(imagename) {
     jQuery('.button-torrent-container').show();
