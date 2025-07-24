@@ -945,7 +945,7 @@ blockquote {
 
 .icon-up-open-big::before {
   content: '\f062';
-  font-family: 'Font Awesome 6 Free';
+  font-family: 'Font Awesome 7 Free';
   font-weight: 900;
 }
 
@@ -955,7 +955,7 @@ blockquote {
 
 .testimonials_slider .testimonials_slider_ul li .author h5 > a::after {
   content: '\f0c1';
-  font-family: 'Font Awesome 6 Free';
+  font-family: 'Font Awesome 7 Free';
   font-style: normal;
   margin-left: 10px;
   font-size: 24px;
@@ -970,7 +970,7 @@ blockquote {
   color: #ff1a1a;
   font-size: 30px;
   top: 6px;
-  font-family: 'Font Awesome 6 Brands';
+  font-family: 'Font Awesome 7 Brands';
 }
 
 .rainbow {
@@ -1000,7 +1000,7 @@ section:not(.dark) .rainbow {
 
 .icon-quote::before {
   content: '\f10d';
-  font-family: 'Font Awesome 6 Free';
+  font-family: 'Font Awesome 7 Free';
   font-weight: 900;
   font-size: 45px;
   top: -5px;
@@ -1009,7 +1009,7 @@ section:not(.dark) .rainbow {
 
 .mfn-close-icon > span::after {
   content: '\f057';
-  font-family: 'Font Awesome 6 Free';
+  font-family: 'Font Awesome 7 Free';
   font-weight: 900;
   display: inline-block;
   visibility: visible;
