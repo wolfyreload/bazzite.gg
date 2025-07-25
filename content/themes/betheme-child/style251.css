@@ -1137,6 +1137,10 @@ section:not(.dark) .rainbow {
   color: #b9a500;
 }
 
+.github-profile-badge.always-expanded .fa-people-group {
+  color: #3550ec;
+}
+
 .github-profile-badge.always-expanded .fa-layer-group {
   color: #6333d2;
 }

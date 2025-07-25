@@ -392,7 +392,7 @@ jQuery(document).ready(function() {
                     maximumFractionDigits: 1
                   }).format(Number(data.trim()) - 23);
 
-                  document.getElementById('contributor-container').innerHTML += '<div class="github-profile-badge always-expanded animate" data-anim-type="fadeInUp" style="animation-delay:' + animDelay + 'ms;"><a href="https://github.com/ublue-os/bazzite/graphs/contributors" target="_blank" class="github-profile-badge-wrapper"><div class="github-profile-badge-img-wrapper"><i class="fa-solid fa-people-group"></i></div><div class="github-profile-badge-name-wrapper"><p class="github-profile-badge-name">And ' + contributorsCount.toLowerCase() + ' other contributors</p></div></a></div>';
+                  document.getElementById('contributor-container').innerHTML += '<div class="github-profile-badge always-expanded animate" data-anim-type="fadeInUp" style="animation-delay:' + animDelay + 'ms;"><a href="https://github.com/ublue-os/bazzite/graphs/contributors" target="_blank" class="github-profile-badge-wrapper"><div class="github-profile-badge-img-wrapper"><i class="fa-solid fa-people-group"></i></div><div class="github-profile-badge-name-wrapper"><p class="github-profile-badge-name">And ' + contributorsCount.toLowerCase() + ' other contributors on GitHub</p></div></a></div>';
                 }
               });
             }
