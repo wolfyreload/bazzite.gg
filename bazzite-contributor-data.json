@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 4478
+    "contributions": 4490
   },
   {
     "login": "EyeCantCU",
@@ -85,7 +85,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 155
+    "contributions": 158
   },
   {
     "login": "HikariKnight",
@@ -129,7 +129,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 115
+    "contributions": 117
   },
   {
     "login": "noelmiller",
@@ -352,6 +352,28 @@
     "contributions": 19
   },
   {
+    "login": "EPOCHvoyager",
+    "id": 39300993,
+    "node_id": "MDQ6VXNlcjM5MzAwOTkz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/39300993?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/EPOCHvoyager",
+    "html_url": "https://github.com/EPOCHvoyager",
+    "followers_url": "https://api.github.com/users/EPOCHvoyager/followers",
+    "following_url": "https://api.github.com/users/EPOCHvoyager/following{/other_user}",
+    "gists_url": "https://api.github.com/users/EPOCHvoyager/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/EPOCHvoyager/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/EPOCHvoyager/subscriptions",
+    "organizations_url": "https://api.github.com/users/EPOCHvoyager/orgs",
+    "repos_url": "https://api.github.com/users/EPOCHvoyager/repos",
+    "events_url": "https://api.github.com/users/EPOCHvoyager/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/EPOCHvoyager/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 15
+  },
+  {
     "login": "bsherman",
     "id": 60557,
     "node_id": "MDQ6VXNlcjYwNTU3",
@@ -372,28 +394,6 @@
     "user_view_type": "public",
     "site_admin": false,
     "contributions": 15
-  },
-  {
-    "login": "EPOCHvoyager",
-    "id": 39300993,
-    "node_id": "MDQ6VXNlcjM5MzAwOTkz",
-    "avatar_url": "https://avatars.githubusercontent.com/u/39300993?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/EPOCHvoyager",
-    "html_url": "https://github.com/EPOCHvoyager",
-    "followers_url": "https://api.github.com/users/EPOCHvoyager/followers",
-    "following_url": "https://api.github.com/users/EPOCHvoyager/following{/other_user}",
-    "gists_url": "https://api.github.com/users/EPOCHvoyager/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/EPOCHvoyager/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/EPOCHvoyager/subscriptions",
-    "organizations_url": "https://api.github.com/users/EPOCHvoyager/orgs",
-    "repos_url": "https://api.github.com/users/EPOCHvoyager/repos",
-    "events_url": "https://api.github.com/users/EPOCHvoyager/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/EPOCHvoyager/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 13
   },
   {
     "login": "Sterophonick",
@@ -503,7 +503,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 9
+    "contributions": 10
   },
   {
     "login": "ledif",
