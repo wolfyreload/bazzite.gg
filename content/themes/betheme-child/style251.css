@@ -1231,18 +1231,21 @@ d-topics-list > iframe {
   margin-top: 2px;
 }
 
-.sha256 {
+.sha256,
+.sha256-liveiso {
   position: absolute;
   margin-top: 13px;
   margin-left: 15px;
 }
 
-.sha256 .fa-file {
+.sha256 .fa-file,
+.sha256-liveiso .fa-file {
   color: #ccc;
   font-size: 25px;
 }
 
-.sha256 .fa-check {
+.sha256 .fa-check,
+.sha256-liveiso .fa-check {
   color: #262626;
   position: absolute;
   font-size: 14px;
@@ -1250,7 +1253,8 @@ d-topics-list > iframe {
   left: 3px;
 }
 
-.sha256:hover .fa-file {
+.sha256:hover .fa-file, 
+.sha256-liveiso:hover .fa-file {
   color: #fff;
 }
 
@@ -1599,7 +1603,8 @@ d-topics-list > iframe {
     max-width: inherit;
   }
 
-  .sha256 {
+  .sha256,
+  .sha256-liveiso {
     margin-top: 16px;
   }
 
@@ -1706,7 +1711,8 @@ d-topics-list > iframe {
   }
 
   .ghcr-details,
-  .sha256 {
+  .sha256,
+  .sha256-liveiso {
     display: none;
     visibility: hidden;
   }
