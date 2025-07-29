@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Download File
         run: |
-          sudo apt-get install rg
+          sudo apt-get install ripgrep
           curl -I -s -o /dev/null -w '%header{link}' "https://api.github.com/repos/ublue-os/bazzite/contributors?per_page=1&anon=true" | rg 'page=(\d+)>; rel="last"' -or '$1' > contributors.txt
         working-directory: ${{ github.workspace }}
 
