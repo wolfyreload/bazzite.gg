@@ -301,6 +301,7 @@ select:focus {
   font-size: 20px;
   top: 1px;
   position: relative;
+  font-style: normal;
 }
 
 .nerd-icon-inline {
@@ -1238,23 +1239,14 @@ d-topics-list > iframe {
   margin-left: 15px;
 }
 
-.sha256 .fa-file,
-.sha256-liveiso .fa-file {
+.sha256 .nerd-icon-inline,
+.sha256-liveiso .nerd-icon-inline {
   color: #ccc;
   font-size: 25px;
 }
 
-.sha256 .fa-check,
-.sha256-liveiso .fa-check {
-  color: #262626;
-  position: absolute;
-  font-size: 14px;
-  top: 10px;
-  left: 6px;
-}
-
-.sha256:hover .fa-file, 
-.sha256-liveiso:hover .fa-file {
+.sha256:hover .nerd-icon-inline, 
+.sha256-liveiso:hover .nerd-icon-inline {
   color: #fff;
 }
 
