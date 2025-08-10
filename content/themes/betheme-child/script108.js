@@ -524,7 +524,7 @@ jQuery(document).ready(function() {
       if (hardware == 'virtualmachine') {
         jQuery('#image-builder .vm-gamemode').removeClass('hidden-fade').addClass('shown-fade');
       }
-    } else {
+    } else if (!apuHardware.includes(hardware)) {
       jQuery('#image-builder .gamemode').addClass('hidden-fade').removeClass('shown-fade');
       jQuery('#image-builder .no-gamemode').addClass('hidden-fade').removeClass('shown-fade');
     }
