@@ -549,8 +549,6 @@ jQuery(document).ready(function() {
       case 'gpd':
       case 'onexplayer':
       case 'claw':
-      case 'asus-flow':
-      case 'minisforum':
         imagename += '-deck';
         break;
 
