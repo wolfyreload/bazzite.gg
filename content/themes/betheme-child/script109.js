@@ -405,8 +405,8 @@ jQuery(document).ready(function() {
   const desktopHardware = ['desktop', 'laptop', 'surface', 'framework', 'framework-desktop', 'asus-flow', 'minisforum', 'asus', 'virtualmachine', 'htpc'];
   const apuHardware = ['framework-desktop', 'asus-flow', 'minisforum'];
   const gamemodeHardware = ['htpc'];
-  const handheldHardware = ['steamdeck', 'ally', 'legion', 'gpd', 'ayn', 'handheld', 'onexplayer', 'claw'];
-  const hhdHardware = ['ally', 'legion', 'gpd', 'ayn', 'handheld', 'onexplayer'];
+  const handheldHardware = ['steamdeck', 'ally', 'legion', 'gpd', 'ayn', 'handheld', 'onexplayer', 'aokzoe', 'claw'];
+  const hhdHardware = ['ally', 'legion', 'gpd', 'ayn', 'handheld', 'onexplayer', 'aokzoe', 'claw'];
   const valveHardware = ['steamdeck'];
   const noGamemodeHardware = ['nvidia', 'old-intel', 'surface', 'old-amd'];
   const ventoyWorkaroundHardware = ['surface'];
@@ -548,6 +548,7 @@ jQuery(document).ready(function() {
       case 'ayn':
       case 'gpd':
       case 'onexplayer':
+      case 'aokzoe':
       case 'claw':
         imagename += '-deck';
         break;
