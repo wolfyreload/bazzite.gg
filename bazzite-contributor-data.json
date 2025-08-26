@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 4523
+    "contributions": 4548
   },
   {
     "login": "EyeCantCU",
@@ -44,6 +44,28 @@
     "contributions": 504
   },
   {
+    "login": "antheas",
+    "id": 5252246,
+    "node_id": "MDQ6VXNlcjUyNTIyNDY=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/5252246?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/antheas",
+    "html_url": "https://github.com/antheas",
+    "followers_url": "https://api.github.com/users/antheas/followers",
+    "following_url": "https://api.github.com/users/antheas/following{/other_user}",
+    "gists_url": "https://api.github.com/users/antheas/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/antheas/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/antheas/subscriptions",
+    "organizations_url": "https://api.github.com/users/antheas/orgs",
+    "repos_url": "https://api.github.com/users/antheas/repos",
+    "events_url": "https://api.github.com/users/antheas/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/antheas/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 188
+  },
+  {
     "login": "nicknamenamenick",
     "id": 121328689,
     "node_id": "U_kgDOBztUMQ",
@@ -64,28 +86,6 @@
     "user_view_type": "public",
     "site_admin": false,
     "contributions": 169
-  },
-  {
-    "login": "antheas",
-    "id": 5252246,
-    "node_id": "MDQ6VXNlcjUyNTIyNDY=",
-    "avatar_url": "https://avatars.githubusercontent.com/u/5252246?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/antheas",
-    "html_url": "https://github.com/antheas",
-    "followers_url": "https://api.github.com/users/antheas/followers",
-    "following_url": "https://api.github.com/users/antheas/following{/other_user}",
-    "gists_url": "https://api.github.com/users/antheas/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/antheas/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/antheas/subscriptions",
-    "organizations_url": "https://api.github.com/users/antheas/orgs",
-    "repos_url": "https://api.github.com/users/antheas/repos",
-    "events_url": "https://api.github.com/users/antheas/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/antheas/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 163
   },
   {
     "login": "HikariKnight",
@@ -129,7 +129,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 121
+    "contributions": 125
   },
   {
     "login": "noelmiller",
@@ -195,7 +195,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 42
+    "contributions": 43
   },
   {
     "login": "github-actions[bot]",
