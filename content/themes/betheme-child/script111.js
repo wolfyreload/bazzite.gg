@@ -550,6 +550,7 @@ jQuery(document).ready(function() {
       case 'onexplayer':
       case 'aokzoe':
       case 'claw':
+      case 'ayaneo':
         imagename += '-deck';
         break;
 
