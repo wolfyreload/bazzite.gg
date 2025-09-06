@@ -403,6 +403,15 @@ code {
   text-align: left;
 }
 
+.mcb-column-inner.mfn-module-wrapper.mcb-column-inner-baa4a56ef.mcb-item-column-inner,
+.mcb-column-inner.mfn-module-wrapper.mcb-column-inner-2b55c5131.mcb-item-column-inner {
+  padding: 20px;
+  margin: 0px;
+  backdrop-filter:blur(10px);
+  border-radius: 24px;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
 .command-nobg {
   font-family: 'FiraCode Nerd Font';
   font-size: 12px;
