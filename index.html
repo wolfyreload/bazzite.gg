@@ -5246,6 +5246,14 @@
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.5.2/jquery-migrate.min.js" id="jquery-migrate-js"></script>
 		<link rel="canonical" href="https://bazzite.gg/" />
 		<link rel='shortlink' href='https://bazzite.gg/' />
+		<script src="https://unpkg.com/i18nextify@^3.2.1" id="i18nextify" fallbacklng="en"></script>
+		<script>
+			window.i18nextify.init({
+				backend: {
+					loadPath: '/locales/{{lng}}.json'
+				}
+			});
+		</script>
 	</head>
 	<body class="home page-template-default page page-id-6 mfn-header-template template-slider color-custom content-brightness-light input-brightness-light style-default button-custom layout-full-width one-page if-zoom no-content-padding no-shadows subheader-both-center footer-copy-center responsive-overflow-x-mobile mobile-tb-center mobile-side-slide mobile-mini-mr-ll mobile-icon-user-ss mobile-icon-wishlist-ss mobile-icon-search-ss mobile-icon-wpml-ss mobile-icon-action-ss be-page-6 be-reg-2735">
 		<div id="home"></div>
