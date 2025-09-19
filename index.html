@@ -5252,15 +5252,15 @@
 			i18next
 				.use(i18nextHttpBackend)
 				.init({
-					lng: 'en', // default language
-					debug: true,
+					lng: 'en',
+					debug: false,
 					fallbackLng: 'en',
 					backend: {
-					  loadPath: '/locales/{{lng}}.json' // where to fetch translations
+					  loadPath: '/locales/{{lng}}.json'
 					}
 				}, function(err, t) {
 					jqueryI18next.init(i18next, $);
-					$('body').localize();
+					jQuery('body').localize();
 				});
 		</script>
 		<link rel="canonical" href="https://bazzite.gg/" />
