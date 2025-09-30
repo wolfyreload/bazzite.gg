@@ -5244,27 +5244,16 @@
 		<link rel='stylesheet' id='style-css' href='content/themes/betheme-child/style256.css' type='text/css' media='all' />
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" id="jquery-core-js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.5.2/jquery-migrate.min.js" id="jquery-migrate-js"></script>
-		<script src="https://unpkg.com/i18next@21.6.16/dist/umd/i18next.min.js"></script>
-		<script src="https://unpkg.com/jquery-i18next@1.2.1/dist/umd/jquery-i18next.min.js"></script>
-		<script src="https://unpkg.com/i18next-http-backend@1.4.4/i18nextHttpBackend.min.js"></script>
-		<script>
-			// Init i18next with backend plugin
-			i18next
-				.use(i18nextHttpBackend)
-				.init({
-					lng: 'en',
-					debug: false,
-					fallbackLng: 'en',
-					backend: {
-					  loadPath: '/locales/{{lng}}.json'
-					}
-				}, function(err, t) {
-					jqueryI18next.init(i18next, $);
-					jQuery('body').localize();
-				});
-		</script>
 		<link rel="canonical" href="https://bazzite.gg/" />
 		<link rel='shortlink' href='https://bazzite.gg/' />
+		<script src="https://unpkg.com/i18nextify@^3.2.1" id="i18nextify" fallbacklng="en"></script>
+		<script>
+			window.i18nextify.init({
+				backend: {
+					loadPath: '/locales/{{lng}}.json'
+				}
+			});
+		</script>
 	</head>
 	<body class="home page-template-default page page-id-6 mfn-header-template template-slider color-custom content-brightness-light input-brightness-light style-default button-custom layout-full-width one-page if-zoom no-content-padding no-shadows subheader-both-center footer-copy-center responsive-overflow-x-mobile mobile-tb-center mobile-side-slide mobile-mini-mr-ll mobile-icon-user-ss mobile-icon-wishlist-ss mobile-icon-search-ss mobile-icon-wpml-ss mobile-icon-action-ss be-page-6 be-reg-2735">
 		<div id="home"></div>
@@ -5627,9 +5616,9 @@
 							<img class="main-logo animate" data-anim-type="fadeIn" alt="D-Pad" style="pointer-events:none;position:absolute;left:0;right:0;top:0;margin:auto;transform:translateZ(5px);" src="content/uploads/2024/03/bazzite_dpad.svg" width="600" height="600" fetchpriority="high">
 							<img class="main-logo animate" data-anim-type="fadeIn" alt="Buttons" style="pointer-events:none;position:absolute;left:0;right:0;top:0;margin:auto;transform:translateZ(10px);" src="content/uploads/2024/03/bazzite_arrows.svg" width="600" height="600" fetchpriority="high">
 						</div>
-						<h1 data-i18n="title">The next generation of Linux gaming</h1>
+						<h1>The next generation of Linux gaming</h1>
 						<div class="container">
-							<div data-i18n="subtitle">Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.</div>
+							<div>Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.</div>
 						</div>
 					</div>
 					<i class="fa fa-chevron-down scroll-fade" style="position:fixed;left:0;right:0;margin:auto;bottom:25px;z-index:1;pointer-events:none;"></i>
