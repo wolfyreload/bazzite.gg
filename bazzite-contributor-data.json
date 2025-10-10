@@ -63,7 +63,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 224
+    "contributions": 235
   },
   {
     "login": "nicknamenamenick",
@@ -371,7 +371,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 16
+    "contributions": 18
   },
   {
     "login": "bsherman",
