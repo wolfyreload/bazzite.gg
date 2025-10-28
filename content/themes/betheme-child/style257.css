@@ -818,7 +818,6 @@ code {
 }
 
 .hover-contrib,
-.sponsor,
 .discourse-docs,
 .link-faq {
   background: #f0f0f0;
@@ -839,26 +838,9 @@ code {
 }
 
 .hover-contrib:hover,
-.sponsor:hover,
 .discourse-docs:hover,
 .link-faq:hover {
   background: #dfdfdf;
-}
-
-.sponsor {
-  color: rgb(219, 97, 162)!important;
-  text-decoration: none!important;
-  border-radius: 15px;
-  white-space: nowrap;
-  font-size: 14px;
-  min-height: 17px;
-  display: inline-block;
-  position: relative;
-  top: -2px;
-}
-
-.sponsor i {
-  font-size: 17px;
 }
 
 .bazaar-icon {
@@ -1348,10 +1330,6 @@ d-topics-list > iframe {
   .hover-contrib {
     display: none;
     visibility: hidden;
-  }
-
-  .sponsor {
-    margin-left: 0px;
   }
 
   .mcb-column-inner-38bd9f044 h2 {
