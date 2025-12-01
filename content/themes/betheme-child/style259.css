@@ -1334,7 +1334,7 @@ d-topics-list > iframe {
 
 @media only screen and (max-width: 1440px) {
   .apps-fade::after {
-    background: radial-gradient(#1c1c1c 40%, rgba(0,0,0,0) 100%);
+    background: radial-gradient(#081740 40%, rgba(0,0,0,0) 100%);
   }
 }
 
