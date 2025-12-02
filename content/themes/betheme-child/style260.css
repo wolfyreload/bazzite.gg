@@ -435,6 +435,7 @@ code {
   text-shadow: 0px 0px 5px rgba(0,0,0,0.5);
   right: -10px;
   transform: rotate(-10deg);
+  font-weight: 600;
 }
 
 #image-builder .download-logo {
