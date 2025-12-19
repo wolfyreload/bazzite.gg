@@ -27,6 +27,18 @@ document.addEventListener('DOMContentLoaded', function () {
     move();
 });
 
+// Override all scroll animations to prevent seizure-inducing flashing 
+// (can prob remove if theme is all black or all white)
+(function($) {
+  var originalAnimate = $.fn.animate;
+  $.fn.animate = function(prop, speed, easing, callback) {
+    if (prop && typeof prop === 'object' && 'scrollTop' in prop) {
+      return this.scrollTop(prop.scrollTop);
+    }
+    return originalAnimate.call(this, prop, speed, easing, callback);
+  };
+})(jQuery);
+
 jQuery(document).ready(function() {
   function easterEggCheck() {
       let today = new Date();
