@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 4821
+    "contributions": 4823
   },
   {
     "login": "EyeCantCU",
@@ -88,28 +88,6 @@
     "contributions": 169
   },
   {
-    "login": "HikariKnight",
-    "id": 2557889,
-    "node_id": "MDQ6VXNlcjI1NTc4ODk=",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2557889?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/HikariKnight",
-    "html_url": "https://github.com/HikariKnight",
-    "followers_url": "https://api.github.com/users/HikariKnight/followers",
-    "following_url": "https://api.github.com/users/HikariKnight/following{/other_user}",
-    "gists_url": "https://api.github.com/users/HikariKnight/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/HikariKnight/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/HikariKnight/subscriptions",
-    "organizations_url": "https://api.github.com/users/HikariKnight/orgs",
-    "repos_url": "https://api.github.com/users/HikariKnight/repos",
-    "events_url": "https://api.github.com/users/HikariKnight/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/HikariKnight/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 139
-  },
-  {
     "login": "Zeglius",
     "id": 33781398,
     "node_id": "MDQ6VXNlcjMzNzgxMzk4",
@@ -126,6 +104,28 @@
     "repos_url": "https://api.github.com/users/Zeglius/repos",
     "events_url": "https://api.github.com/users/Zeglius/events{/privacy}",
     "received_events_url": "https://api.github.com/users/Zeglius/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 141
+  },
+  {
+    "login": "HikariKnight",
+    "id": 2557889,
+    "node_id": "MDQ6VXNlcjI1NTc4ODk=",
+    "avatar_url": "https://avatars.githubusercontent.com/u/2557889?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/HikariKnight",
+    "html_url": "https://github.com/HikariKnight",
+    "followers_url": "https://api.github.com/users/HikariKnight/followers",
+    "following_url": "https://api.github.com/users/HikariKnight/following{/other_user}",
+    "gists_url": "https://api.github.com/users/HikariKnight/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/HikariKnight/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/HikariKnight/subscriptions",
+    "organizations_url": "https://api.github.com/users/HikariKnight/orgs",
+    "repos_url": "https://api.github.com/users/HikariKnight/repos",
+    "events_url": "https://api.github.com/users/HikariKnight/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/HikariKnight/received_events",
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
@@ -173,7 +173,7 @@
     "type": "Bot",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 57
+    "contributions": 58
   },
   {
     "login": "noelmiller",
@@ -418,6 +418,28 @@
     "contributions": 14
   },
   {
+    "login": "ledif",
+    "id": 307744,
+    "node_id": "MDQ6VXNlcjMwNzc0NA==",
+    "avatar_url": "https://avatars.githubusercontent.com/u/307744?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ledif",
+    "html_url": "https://github.com/ledif",
+    "followers_url": "https://api.github.com/users/ledif/followers",
+    "following_url": "https://api.github.com/users/ledif/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ledif/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ledif/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ledif/subscriptions",
+    "organizations_url": "https://api.github.com/users/ledif/orgs",
+    "repos_url": "https://api.github.com/users/ledif/repos",
+    "events_url": "https://api.github.com/users/ledif/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ledif/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 12
+  },
+  {
     "login": "Sterophonick",
     "id": 34801996,
     "node_id": "MDQ6VXNlcjM0ODAxOTk2",
@@ -460,28 +482,6 @@
     "user_view_type": "public",
     "site_admin": false,
     "contributions": 12
-  },
-  {
-    "login": "ledif",
-    "id": 307744,
-    "node_id": "MDQ6VXNlcjMwNzc0NA==",
-    "avatar_url": "https://avatars.githubusercontent.com/u/307744?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/ledif",
-    "html_url": "https://github.com/ledif",
-    "followers_url": "https://api.github.com/users/ledif/followers",
-    "following_url": "https://api.github.com/users/ledif/following{/other_user}",
-    "gists_url": "https://api.github.com/users/ledif/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/ledif/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/ledif/subscriptions",
-    "organizations_url": "https://api.github.com/users/ledif/orgs",
-    "repos_url": "https://api.github.com/users/ledif/repos",
-    "events_url": "https://api.github.com/users/ledif/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/ledif/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 11
   },
   {
     "login": "dnkmmr69420",
