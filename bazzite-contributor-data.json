@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 4836
+    "contributions": 4840
   },
   {
     "login": "EyeCantCU",
@@ -107,7 +107,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 148
+    "contributions": 150
   },
   {
     "login": "HikariKnight",
@@ -151,7 +151,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 64
+    "contributions": 67
   },
   {
     "login": "renovate[bot]",
@@ -327,29 +327,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 23
-  },
-  {
-    "login": "RodoMa92",
-    "id": 16669146,
-    "node_id": "MDQ6VXNlcjE2NjY5MTQ2",
-    "avatar_url": "https://avatars.githubusercontent.com/u/16669146?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/RodoMa92",
-    "html_url": "https://github.com/RodoMa92",
-    "followers_url": "https://api.github.com/users/RodoMa92/followers",
-    "following_url": "https://api.github.com/users/RodoMa92/following{/other_user}",
-    "gists_url": "https://api.github.com/users/RodoMa92/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/RodoMa92/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/RodoMa92/subscriptions",
-    "organizations_url": "https://api.github.com/users/RodoMa92/orgs",
-    "repos_url": "https://api.github.com/users/RodoMa92/repos",
-    "events_url": "https://api.github.com/users/RodoMa92/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/RodoMa92/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 19
+    "contributions": 24
   },
   {
     "login": "EPOCHvoyager",
@@ -368,6 +346,28 @@
     "repos_url": "https://api.github.com/users/EPOCHvoyager/repos",
     "events_url": "https://api.github.com/users/EPOCHvoyager/events{/privacy}",
     "received_events_url": "https://api.github.com/users/EPOCHvoyager/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 22
+  },
+  {
+    "login": "RodoMa92",
+    "id": 16669146,
+    "node_id": "MDQ6VXNlcjE2NjY5MTQ2",
+    "avatar_url": "https://avatars.githubusercontent.com/u/16669146?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/RodoMa92",
+    "html_url": "https://github.com/RodoMa92",
+    "followers_url": "https://api.github.com/users/RodoMa92/followers",
+    "following_url": "https://api.github.com/users/RodoMa92/following{/other_user}",
+    "gists_url": "https://api.github.com/users/RodoMa92/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/RodoMa92/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/RodoMa92/subscriptions",
+    "organizations_url": "https://api.github.com/users/RodoMa92/orgs",
+    "repos_url": "https://api.github.com/users/RodoMa92/repos",
+    "events_url": "https://api.github.com/users/RodoMa92/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/RodoMa92/received_events",
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
@@ -616,6 +616,28 @@
     "contributions": 6
   },
   {
+    "login": "Xarishark",
+    "id": 21146743,
+    "node_id": "MDQ6VXNlcjIxMTQ2NzQz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/21146743?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Xarishark",
+    "html_url": "https://github.com/Xarishark",
+    "followers_url": "https://api.github.com/users/Xarishark/followers",
+    "following_url": "https://api.github.com/users/Xarishark/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xarishark/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Xarishark/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xarishark/subscriptions",
+    "organizations_url": "https://api.github.com/users/Xarishark/orgs",
+    "repos_url": "https://api.github.com/users/Xarishark/repos",
+    "events_url": "https://api.github.com/users/Xarishark/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Xarishark/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 5
+  },
+  {
     "login": "trbocode",
     "id": 20900544,
     "node_id": "MDQ6VXNlcjIwOTAwNTQ0",
@@ -632,28 +654,6 @@
     "repos_url": "https://api.github.com/users/trbocode/repos",
     "events_url": "https://api.github.com/users/trbocode/events{/privacy}",
     "received_events_url": "https://api.github.com/users/trbocode/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 5
-  },
-  {
-    "login": "aaron-trout",
-    "id": 2394679,
-    "node_id": "MDQ6VXNlcjIzOTQ2Nzk=",
-    "avatar_url": "https://avatars.githubusercontent.com/u/2394679?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/aaron-trout",
-    "html_url": "https://github.com/aaron-trout",
-    "followers_url": "https://api.github.com/users/aaron-trout/followers",
-    "following_url": "https://api.github.com/users/aaron-trout/following{/other_user}",
-    "gists_url": "https://api.github.com/users/aaron-trout/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/aaron-trout/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/aaron-trout/subscriptions",
-    "organizations_url": "https://api.github.com/users/aaron-trout/orgs",
-    "repos_url": "https://api.github.com/users/aaron-trout/repos",
-    "events_url": "https://api.github.com/users/aaron-trout/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/aaron-trout/received_events",
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
