@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 4869
+    "contributions": 4871
   },
   {
     "login": "EyeCantCU",
@@ -107,7 +107,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 151
+    "contributions": 152
   },
   {
     "login": "HikariKnight",
@@ -173,7 +173,7 @@
     "type": "Bot",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 64
+    "contributions": 66
   },
   {
     "login": "noelmiller",
@@ -415,7 +415,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 14
+    "contributions": 15
   },
   {
     "login": "ledif",
@@ -484,6 +484,28 @@
     "contributions": 12
   },
   {
+    "login": "stellaberrant",
+    "id": 104581805,
+    "node_id": "U_kgDOBjvKrQ",
+    "avatar_url": "https://avatars.githubusercontent.com/u/104581805?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/stellaberrant",
+    "html_url": "https://github.com/stellaberrant",
+    "followers_url": "https://api.github.com/users/stellaberrant/followers",
+    "following_url": "https://api.github.com/users/stellaberrant/following{/other_user}",
+    "gists_url": "https://api.github.com/users/stellaberrant/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/stellaberrant/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/stellaberrant/subscriptions",
+    "organizations_url": "https://api.github.com/users/stellaberrant/orgs",
+    "repos_url": "https://api.github.com/users/stellaberrant/repos",
+    "events_url": "https://api.github.com/users/stellaberrant/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/stellaberrant/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 11
+  },
+  {
     "login": "wolfyreload",
     "id": 5320719,
     "node_id": "MDQ6VXNlcjUzMjA3MTk=",
@@ -504,28 +526,6 @@
     "user_view_type": "public",
     "site_admin": false,
     "contributions": 11
-  },
-  {
-    "login": "stellaberrant",
-    "id": 104581805,
-    "node_id": "U_kgDOBjvKrQ",
-    "avatar_url": "https://avatars.githubusercontent.com/u/104581805?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/stellaberrant",
-    "html_url": "https://github.com/stellaberrant",
-    "followers_url": "https://api.github.com/users/stellaberrant/followers",
-    "following_url": "https://api.github.com/users/stellaberrant/following{/other_user}",
-    "gists_url": "https://api.github.com/users/stellaberrant/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/stellaberrant/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/stellaberrant/subscriptions",
-    "organizations_url": "https://api.github.com/users/stellaberrant/orgs",
-    "repos_url": "https://api.github.com/users/stellaberrant/repos",
-    "events_url": "https://api.github.com/users/stellaberrant/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/stellaberrant/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 10
   },
   {
     "login": "dnkmmr69420",
@@ -569,7 +569,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 9
+    "contributions": 10
   },
   {
     "login": "BWBellairs",
