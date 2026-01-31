@@ -7273,8 +7273,7 @@ https://www.forbes.com/sites/jasonevangelho/2024/12/03/5-reasons-you-should-run-
 														<br>
 														<span class="command-header">
 															<h3>Existing <a href="https://fedoraproject.org/atomic-desktops/" target="_blank">Fedora Atomic Desktop</a> Users</h3>
-															Before proceeding, it is recommended to remove any layered packages with this command:<br><span class="command" style="margin-top:5px;">rpm-ostree reset</span><br>
-															<br>
+															<p>Before proceeding, it is recommended to remove any layered packages with this command:<br><span class="command" style="margin-top:5px;">rpm-ostree reset</span><br></p>
 															You may rebase to <span class="image-name"></span> with this command:
 														</span>
 														<span class="command">rpm-ostree rebase ostree-unverified-registry:ghcr.io/ublue-os/<span class="image-name"></span>:stable</span><a class="ghcr-details" style="text-decoration: none;" title="View details on the GitHub Container registry" target="_blank"><i style="padding-left:7px;top:3px;position:relative;font-size:18px;" class="nerd-icon-inline"></i></a>
@@ -7286,6 +7285,8 @@ https://www.forbes.com/sites/jasonevangelho/2024/12/03/5-reasons-you-should-run-
 															<strong>It's recommended by upstream that you stick to the same desktop environment as your current install when rebasing.</strong><br>
 															<br>
 															Your flatpaks and flatpak remotes will not be changed during the rebase process. Once rebased, you can optionally install Bazzite's default flatpaks by running the following in a terminal:<br><span class="command" style="margin-top:5px;">ujust _install-system-flatpaks</span>
+															<br><br>
+															<p>Once everything is set up properly, then you should rebase from the unsigned image to the signed image for security reasons, so enter this command in the host terminal:</p><span class="command">rpm-ostree rebase ostree-image-signed:docker://ghcr.io/ublue-os/<span class="image-name"></span>:stable</span>
 														</span>
 													</div>
 													<div id="Bazzite" class="tabcontent" class="rebase" >
@@ -7293,7 +7294,6 @@ https://www.forbes.com/sites/jasonevangelho/2024/12/03/5-reasons-you-should-run-
 														<span class="command-header">
 														<h3>Existing Bazzite users</h3>
 														<p>Before proceeding, it is recommended to remove any layered packages with this command:<br><span class="command" style="margin-top:5px;">rpm-ostree reset</span><br></p>
-														<br>
 														You may rebase to <span class="image-name"></span> with this command:
 														</span>
 														<span class="command">brh rebase <span class="image-name"></span>:stable</span><a class="ghcr-details" style="text-decoration: none;" title="View details on the GitHub Container registry" target="_blank"><i style="padding-left:7px;top:3px;position:relative;font-size:18px;" class="nerd-icon-inline"></i></a>
