@@ -1860,4 +1860,11 @@ d-topics-list > iframe {
   .mcb-wrap-inner-f6578f479 .content-container .title {
     margin-top: 100px;
   }
+  .tab button.active {
+    background-color: #1542a6;
+  }
+   button.tablinks.active {
+    background-color: #1542a6;
+  }
+
 }
