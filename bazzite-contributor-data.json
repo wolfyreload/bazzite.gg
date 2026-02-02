@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 4875
+    "contributions": 4879
   },
   {
     "login": "EyeCantCU",
@@ -151,7 +151,7 @@
     "type": "Bot",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 69
+    "contributions": 70
   },
   {
     "login": "xXJSONDeruloXx",
@@ -352,6 +352,28 @@
     "contributions": 24
   },
   {
+    "login": "Xarishark",
+    "id": 21146743,
+    "node_id": "MDQ6VXNlcjIxMTQ2NzQz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/21146743?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Xarishark",
+    "html_url": "https://github.com/Xarishark",
+    "followers_url": "https://api.github.com/users/Xarishark/followers",
+    "following_url": "https://api.github.com/users/Xarishark/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Xarishark/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Xarishark/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Xarishark/subscriptions",
+    "organizations_url": "https://api.github.com/users/Xarishark/orgs",
+    "repos_url": "https://api.github.com/users/Xarishark/repos",
+    "events_url": "https://api.github.com/users/Xarishark/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Xarishark/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 22
+  },
+  {
     "login": "RodoMa92",
     "id": 16669146,
     "node_id": "MDQ6VXNlcjE2NjY5MTQ2",
@@ -390,28 +412,6 @@
     "repos_url": "https://api.github.com/users/bsherman/repos",
     "events_url": "https://api.github.com/users/bsherman/events{/privacy}",
     "received_events_url": "https://api.github.com/users/bsherman/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 15
-  },
-  {
-    "login": "Xarishark",
-    "id": 21146743,
-    "node_id": "MDQ6VXNlcjIxMTQ2NzQz",
-    "avatar_url": "https://avatars.githubusercontent.com/u/21146743?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/Xarishark",
-    "html_url": "https://github.com/Xarishark",
-    "followers_url": "https://api.github.com/users/Xarishark/followers",
-    "following_url": "https://api.github.com/users/Xarishark/following{/other_user}",
-    "gists_url": "https://api.github.com/users/Xarishark/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/Xarishark/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/Xarishark/subscriptions",
-    "organizations_url": "https://api.github.com/users/Xarishark/orgs",
-    "repos_url": "https://api.github.com/users/Xarishark/repos",
-    "events_url": "https://api.github.com/users/Xarishark/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/Xarishark/received_events",
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
@@ -613,7 +613,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 8
+    "contributions": 9
   },
   {
     "login": "dreamyukii",
