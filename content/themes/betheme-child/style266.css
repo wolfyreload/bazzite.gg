@@ -254,30 +254,30 @@ select:focus {
   flex: 1;
   text-align: center;
   margin: 0px;
-  border-bottom: 10px solid #000;
+  border-top: 10px solid #000;
   border-radius: 0px;
   color: #ccc;
   padding-left:0px;
   padding-right:0px;
-  background: none;
+  background: #0f0f0f;
 }
 
 .tab button.active {
-  border-bottom: 10px solid #1543b4;
-  color: #fff;
-  background: #373737;
-}
-
-.tab button:hover {
-  border-bottom: 10px solid #782fdb;
+  border-top: 10px solid #1543b4;
   color: #fff;
   background: none;
 }
 
-.tab button.active:hover {
-  border-bottom: 10px solid #782fdb;
+.tab button:hover {
+  border-top: 10px solid #782fdb;
   color: #fff;
-  background: #373737;
+  background: #0f0f0f;
+}
+
+.tab button.active:hover {
+  border-top: 10px solid #782fdb;
+  color: #fff;
+  background: none;
 }
 
 .tabcontent {
