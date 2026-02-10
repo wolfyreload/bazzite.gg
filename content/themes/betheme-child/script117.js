@@ -418,7 +418,6 @@ jQuery(document).ready(function() {
   const apuHardware = ['framework-desktop', 'asus-flow', 'minisforum'];
   const gamemodeHardware = ['htpc'];
   const handheldHardware = ['steamdeck', 'ally', 'legion', 'gpd', 'ayn', 'ayaneo', 'handheld', 'onexplayer', 'aokzoe', 'claw'];
-  const hhdHardware = ['ally', 'legion', 'gpd', 'ayn', 'ayaneo', 'handheld', 'onexplayer', 'aokzoe', 'claw'];
   const valveHardware = ['steamdeck'];
   const noGamemodeHardware = ['nvidia', 'old-intel', 'surface', 'old-amd'];
   const ventoyWorkaroundHardware = ['surface'];
@@ -474,19 +473,16 @@ jQuery(document).ready(function() {
       jQuery('#image-builder .gpu').removeClass('hidden-fade').addClass('shown-fade');
       jQuery('#image-builder .gamemode').removeClass('hidden-fade').addClass('shown-fade');
       jQuery('#image-builder .no-gamemode').addClass('hidden-fade').removeClass('shown-fade');
-      jQuery('#image-builder .hhd').removeClass('shown-fade').addClass('hidden-fade');
       jQuery('#image-builder .steam-deck').removeClass('shown-fade').addClass('hidden-fade');
       jQuery('#image-builder .rog-ally').removeClass('shown-fade').addClass('hidden-fade');
       if (gamemodeHardware.includes(hardware)) {
         jQuery('#image-builder .gamemode').addClass('hidden-fade').removeClass('shown-fade');
       } else if (handheldHardware.includes(hardware)) {
         jQuery('#image-builder .gpu, #image-builder .gamemode').addClass('hidden-fade').removeClass('shown-fade');
-        if (hhdHardware.includes(hardware)) {
-          jQuery('#image-builder .hhd').addClass('shown-fade').removeClass('hidden-fade');
-          if (hardware == 'ally') {
-            jQuery('#image-builder .rog-ally').addClass('shown-fade').removeClass('hidden-fade');
-          }
-        } else if (valveHardware.includes(hardware)) {
+        if (hardware == 'ally') {
+          jQuery('#image-builder .rog-ally').addClass('shown-fade').removeClass('hidden-fade');
+        }
+        if (valveHardware.includes(hardware)) {
           jQuery('#image-builder .steam-deck').addClass('shown-fade').removeClass('hidden-fade');
         }
       } else if (apuHardware.includes(hardware)) {
