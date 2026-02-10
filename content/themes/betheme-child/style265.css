@@ -240,6 +240,7 @@ select:focus {
   border-radius: 15px;
   margin-bottom: 20px;
   border-top: none;
+  overflow: hidden;
 }
 
 #image-builder-result .tab {
@@ -252,23 +253,31 @@ select:focus {
 .tab button {
   flex: 1;
   text-align: center;
-  background: none !important;
   margin: 0px;
   border-bottom: 10px solid #000;
   border-radius: 0px;
   color: #ccc;
   padding-left:0px;
   padding-right:0px;
+  background: none;
 }
 
 .tab button.active {
   border-bottom: 10px solid #1543b4;
   color: #fff;
+  background: #373737;
 }
 
 .tab button:hover {
   border-bottom: 10px solid #782fdb;
   color: #fff;
+  background: none;
+}
+
+.tab button.active:hover {
+  border-bottom: 10px solid #782fdb;
+  color: #fff;
+  background: #373737;
 }
 
 .tabcontent {
