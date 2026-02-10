@@ -262,6 +262,10 @@ select:focus {
   background: #0f0f0f;
 }
 
+.tab button span {
+  font-size: 16px;
+}
+
 .tab button.active {
   border-top: 10px solid #1543b4;
   color: #fff;
@@ -1447,6 +1451,10 @@ d-topics-list > iframe {
 }
 
 @media only screen and (max-width: 959px) {
+  .tab button span {
+    font-size:12px;
+  }
+
   .mcb-section .mcb-wrap .mcb-item-2860d5f72 .button {
     padding-right: 10px;
     padding-left: 10px;
@@ -1602,8 +1610,6 @@ d-topics-list > iframe {
   }
 
   #image-builder-result {
-    padding-top: 30px;
-    padding-bottom: 30px;
     margin-top: 50px;
   }
 
@@ -1657,10 +1663,6 @@ d-topics-list > iframe {
 @media only screen and (min-width: 960px) {
   h2 {
     font-size: 55px;
-  }
-
-  .tab button {
-    font-size:12px;
   }
 
   .contrib-image {
@@ -1836,8 +1838,8 @@ d-topics-list > iframe {
     padding-bottom: 10px;
   }
 
-  .tab button {
-    font-size:10px;
+  .tab button span {
+    font-size:9px;
   }
 }
 
@@ -1849,8 +1851,8 @@ d-topics-list > iframe {
     right: 45px;
   }
 
-  .tab button {
-    font-size:9px;
+  .tab button span {
+    font-size:8px;
   }
 
   #apps .mcb-item-button-inner {
