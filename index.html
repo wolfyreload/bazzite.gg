@@ -5295,7 +5295,7 @@
 				}
 			}
 		</style>
-		<link rel='stylesheet' id='style-css' href='content/themes/betheme-child/style261.css' type='text/css' media='all' />
+		<link rel='stylesheet' id='style-css' href='content/themes/betheme-child/style262.css' type='text/css' media='all' />
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" id="jquery-core-js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/3.5.2/jquery-migrate.min.js" id="jquery-migrate-js"></script>
 		<link rel="canonical" href="https://bazzite.gg/" />
@@ -7232,7 +7232,12 @@ https://www.forbes.com/sites/jasonevangelho/2024/12/03/5-reasons-you-should-run-
 													</div>
 												</div>
 												<div id="image-builder-result" class="fade-transition hidden-fade">
-													<div class="iso-selection">
+													<div class="tab">
+														<button class="tablinks" onclick="openResult(event, 'New')" id="defaultOpen">New Users</button>
+														<button class="tablinks" onclick="openResult(event, 'Bazzite')">Existing Bazzite Users</button>
+														<button class="tablinks" onclick="openResult(event, 'Fedora')">Existing Fedora Atomic Users</button>
+													</div>
+													<div id="New" class="tabcontent" class="iso-selection">
 														<h3>New Users</h3>
 														<div class="button-liveiso-container">
 															<a class="button-liveiso glow-effect button has-icon button_right">
@@ -7264,12 +7269,12 @@ https://www.forbes.com/sites/jasonevangelho/2024/12/03/5-reasons-you-should-run-
 														<span class="fine-print">View the <a href="https://docs.bazzite.gg/General/Installation_Guide/index.html" target="_blank">Bazzite initial setup guide</a>.<br>
 														View all <a href="https://docs.bazzite.gg/" target="_blank">Bazzite documentation</a>.</span>
 													</div>
-													<div class="rebase">
+													<div id="Fedora" class="tabcontent" class="rebase" >
+														<br>
 														<span class="command-header">
 															<h3>Existing <a href="https://fedoraproject.org/atomic-desktops/" target="_blank">Fedora Atomic Desktop</a> Users</h3>
-															It is recommended to remove any layered packages before proceeding with this command:<br><span class="command" style="margin-top:5px;">rpm-ostree reset</span><br>
-															<br>
-															You may rebase to Bazzite with this command:
+															<p>Before proceeding, it is recommended to remove any layered packages with this command:<br><span class="command" style="margin-top:5px;">rpm-ostree reset</span><br></p>
+															You may rebase to <span class="image-name"></span> with this command:
 														</span>
 														<span class="command">rpm-ostree rebase ostree-unverified-registry:ghcr.io/ublue-os/<span class="image-name"></span>:stable</span><a class="ghcr-details" style="text-decoration: none;" title="View details on the GitHub Container registry" target="_blank"><i style="padding-left:7px;top:3px;position:relative;font-size:18px;" class="nerd-icon-inline"></i></a>
 														<br>
@@ -7280,7 +7285,22 @@ https://www.forbes.com/sites/jasonevangelho/2024/12/03/5-reasons-you-should-run-
 															<strong>It's recommended by upstream that you stick to the same desktop environment as your current install when rebasing.</strong><br>
 															<br>
 															Your flatpaks and flatpak remotes will not be changed during the rebase process. Once rebased, you can optionally install Bazzite's default flatpaks by running the following in a terminal:<br><span class="command" style="margin-top:5px;">ujust _install-system-flatpaks</span>
+															<br><br>
+															<p>Once everything is set up properly, then you should rebase from the unsigned image to the signed image for security reasons, so enter this command in the host terminal:</p><span class="command">rpm-ostree rebase ostree-image-signed:docker://ghcr.io/ublue-os/<span class="image-name"></span>:stable</span>
 														</span>
+													</div>
+													<div id="Bazzite" class="tabcontent" class="rebase" >
+														<br>
+														<span class="command-header">
+														<h3>Existing Bazzite users</h3>
+														<p>Before proceeding, it is recommended to remove any layered packages with this command:<br><span class="command" style="margin-top:5px;">rpm-ostree reset</span><br></p>
+														You may rebase to <span class="image-name"></span> with this command:
+														</span>
+														<span class="command">brh rebase <span class="image-name"></span>:stable</span><a class="ghcr-details" style="text-decoration: none;" title="View details on the GitHub Container registry" target="_blank"><i style="padding-left:7px;top:3px;position:relative;font-size:18px;" class="nerd-icon-inline"></i></a>
+														<br>
+														<br>
+														<span class="fine-print">
+															<strong>It's recommended by upstream that you stick to the same desktop environment as your current install when rebasing.</strong><br> </span>
 													</div>
 													<div class="video-container">
 														<div class="fade-transition hidden-fade gpd">
@@ -7413,7 +7433,7 @@ https://www.forbes.com/sites/jasonevangelho/2024/12/03/5-reasons-you-should-run-
 		<script type="text/javascript" src="content/themes/betheme/js/scripts2.js" id="mfn-scripts-js"></script>
 		<script type="text/javascript" src="content/themes/betheme/js/plugins/imagesloaded.min.js%3Fver=27.3.5" id="mfn-imagesloaded-js"></script>
 		<script type="text/javascript" src="content/themes/betheme/js/plugins/slick.min.js?ver=27.3.5" id="mfn-slick-js"></script>
-		<script type="text/javascript" src="content/themes/betheme-child/script114.js" id="script-js" defer></script>
+		<script type="text/javascript" src="content/themes/betheme-child/script116.js" id="script-js" defer></script>
 		<script type="text/javascript" src="content/themes/betheme/assets/lottie/lottie-player.js" id="mfn-lottie-player-js" defer></script>
 		<script type="text/javascript" src="content/themes/betheme-child/lottie.js" id="lottie" defer></script>
 		<script type="text/javascript" src="https:///universal-blue.discourse.group/javascripts/embed-topics.js" id="discourse-js" defer></script>
