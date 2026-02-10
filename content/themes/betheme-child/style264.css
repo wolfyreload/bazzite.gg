@@ -235,10 +235,11 @@ select:focus {
 }
 
 #image-builder-result {
-  margin-bottom: 5px;
-  border-top: 2px solid #575757;
-  padding-top: 50px;
   width: 100%;
+  background: #262626;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  border-top: none;
 }
 
 #image-builder-result .tab {
@@ -268,6 +269,10 @@ select:focus {
 .tab button:hover {
   border-bottom: 10px solid #782fdb;
   color: #fff;
+}
+
+.tabcontent {
+  padding:0px 15px;
 }
 
 .iso-selection,
