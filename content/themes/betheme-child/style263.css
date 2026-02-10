@@ -238,6 +238,36 @@ select:focus {
   margin-bottom: 5px;
   border-top: 2px solid #575757;
   padding-top: 50px;
+  width: 100%;
+}
+
+#image-builder-result .tab {
+  width: 100%;
+  position: relative;
+  display: flex;
+  white-space: nowrap;
+}
+
+.tab button {
+  flex: 1;
+  text-align: center;
+  background: none !important;
+  margin: 0px;
+  border-bottom: 10px solid #000;
+  border-radius: 0px;
+  color: #ccc;
+  padding-left:0px;
+  padding-right:0px;
+}
+
+.tab button.active {
+  border-bottom: 10px solid #1543b4;
+  color: #fff;
+}
+
+.tab button:hover {
+  border-bottom: 10px solid #782fdb;
+  color: #fff;
 }
 
 .iso-selection,
@@ -1615,6 +1645,10 @@ d-topics-list > iframe {
     font-size: 55px;
   }
 
+  .tab button {
+    font-size:12px;
+  }
+
   .contrib-image {
     width: 70%;
     padding-left: 15px;
@@ -1787,6 +1821,10 @@ d-topics-list > iframe {
     padding-top: 10px;
     padding-bottom: 10px;
   }
+
+  .tab button {
+    font-size:10px;
+  }
 }
 
 @media only screen and (max-width: 480px) {
@@ -1795,6 +1833,10 @@ d-topics-list > iframe {
     color: #fff!important;
     backdrop-filter: none!important;
     right: 45px;
+  }
+
+  .tab button {
+    font-size:9px;
   }
 
   #apps .mcb-item-button-inner {
@@ -1860,26 +1902,4 @@ d-topics-list > iframe {
   .mcb-wrap-inner-f6578f479 .content-container .title {
     margin-top: 100px;
   }
-  .tab button.active {
-  background-color: #9d2af6;
-  }
 }
-.tab button.active,
-  button.tablinks.active {
-        background-image: linear-gradient(130deg, rgb(5, 70, 173) 0%, rgb(138, 43, 226) 100%);
-            background-color: rgb(5, 70, 173) !important;
-            overflow: visible;
-            transform-style: preserve-3d;
-            box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.01);
-            transition: background-color 0.1s ease-in-out;
-  }
-  .tab button {
-    background-color: #000 !important;
-    float: left;
-    border: none;
-    outline: none;
-    cursor: pointer;
-    padding: 14px 16px;
-    transition: 0.3s;
-  }
-background: #5643b4
