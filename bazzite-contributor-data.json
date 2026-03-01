@@ -19,7 +19,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 4926
+    "contributions": 4927
   },
   {
     "login": "EyeCantCU",
@@ -85,7 +85,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 173
+    "contributions": 174
   },
   {
     "login": "nicknamenamenick",
@@ -283,29 +283,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 29
-  },
-  {
-    "login": "m2Giles",
-    "id": 69128853,
-    "node_id": "MDQ6VXNlcjY5MTI4ODUz",
-    "avatar_url": "https://avatars.githubusercontent.com/u/69128853?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/m2Giles",
-    "html_url": "https://github.com/m2Giles",
-    "followers_url": "https://api.github.com/users/m2Giles/followers",
-    "following_url": "https://api.github.com/users/m2Giles/following{/other_user}",
-    "gists_url": "https://api.github.com/users/m2Giles/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/m2Giles/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/m2Giles/subscriptions",
-    "organizations_url": "https://api.github.com/users/m2Giles/orgs",
-    "repos_url": "https://api.github.com/users/m2Giles/repos",
-    "events_url": "https://api.github.com/users/m2Giles/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/m2Giles/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 27
+    "contributions": 31
   },
   {
     "login": "fiftydinar",
@@ -324,6 +302,28 @@
     "repos_url": "https://api.github.com/users/fiftydinar/repos",
     "events_url": "https://api.github.com/users/fiftydinar/events{/privacy}",
     "received_events_url": "https://api.github.com/users/fiftydinar/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 27
+  },
+  {
+    "login": "m2Giles",
+    "id": 69128853,
+    "node_id": "MDQ6VXNlcjY5MTI4ODUz",
+    "avatar_url": "https://avatars.githubusercontent.com/u/69128853?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/m2Giles",
+    "html_url": "https://github.com/m2Giles",
+    "followers_url": "https://api.github.com/users/m2Giles/followers",
+    "following_url": "https://api.github.com/users/m2Giles/following{/other_user}",
+    "gists_url": "https://api.github.com/users/m2Giles/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/m2Giles/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/m2Giles/subscriptions",
+    "organizations_url": "https://api.github.com/users/m2Giles/orgs",
+    "repos_url": "https://api.github.com/users/m2Giles/repos",
+    "events_url": "https://api.github.com/users/m2Giles/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/m2Giles/received_events",
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
@@ -481,7 +481,7 @@
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
-    "contributions": 13
+    "contributions": 14
   },
   {
     "login": "ledif",
@@ -594,28 +594,6 @@
     "contributions": 11
   },
   {
-    "login": "dreamyukii",
-    "id": 49896401,
-    "node_id": "MDQ6VXNlcjQ5ODk2NDAx",
-    "avatar_url": "https://avatars.githubusercontent.com/u/49896401?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/dreamyukii",
-    "html_url": "https://github.com/dreamyukii",
-    "followers_url": "https://api.github.com/users/dreamyukii/followers",
-    "following_url": "https://api.github.com/users/dreamyukii/following{/other_user}",
-    "gists_url": "https://api.github.com/users/dreamyukii/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/dreamyukii/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/dreamyukii/subscriptions",
-    "organizations_url": "https://api.github.com/users/dreamyukii/orgs",
-    "repos_url": "https://api.github.com/users/dreamyukii/repos",
-    "events_url": "https://api.github.com/users/dreamyukii/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/dreamyukii/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "contributions": 10
-  },
-  {
     "login": "dnkmmr69420",
     "id": 104856296,
     "node_id": "U_kgDOBj_66A",
@@ -632,6 +610,28 @@
     "repos_url": "https://api.github.com/users/dnkmmr69420/repos",
     "events_url": "https://api.github.com/users/dnkmmr69420/events{/privacy}",
     "received_events_url": "https://api.github.com/users/dnkmmr69420/received_events",
+    "type": "User",
+    "user_view_type": "public",
+    "site_admin": false,
+    "contributions": 10
+  },
+  {
+    "login": "dreamyukii",
+    "id": 49896401,
+    "node_id": "MDQ6VXNlcjQ5ODk2NDAx",
+    "avatar_url": "https://avatars.githubusercontent.com/u/49896401?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dreamyukii",
+    "html_url": "https://github.com/dreamyukii",
+    "followers_url": "https://api.github.com/users/dreamyukii/followers",
+    "following_url": "https://api.github.com/users/dreamyukii/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dreamyukii/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dreamyukii/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dreamyukii/subscriptions",
+    "organizations_url": "https://api.github.com/users/dreamyukii/orgs",
+    "repos_url": "https://api.github.com/users/dreamyukii/repos",
+    "events_url": "https://api.github.com/users/dreamyukii/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dreamyukii/received_events",
     "type": "User",
     "user_view_type": "public",
     "site_admin": false,
