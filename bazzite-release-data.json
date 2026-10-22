@@ -68,7 +68,7 @@
         "state": "uploaded",
         "size": 839557,
         "digest": "sha256:e814de3e457d5a817d5fd262df69237f0477b4d51ddfc546d0f0fbefdc5dbc7a",
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2026-10-21T23:46:59Z",
         "updated_at": "2026-10-21T23:46:59Z",
         "browser_download_url": "https://github.com/ublue-os/bazzite/releases/download/unstable-45.20261021.4/packages.json"
