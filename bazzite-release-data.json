@@ -68,7 +68,7 @@
         "state": "uploaded",
         "size": 1189817,
         "digest": "sha256:8c4f2f45629b168bc27793e119903198ee1517045d17913869407b2ba0d93121",
-        "download_count": 2,
+        "download_count": 9,
         "created_at": "2026-11-23T23:05:40Z",
         "updated_at": "2026-11-23T23:05:41Z",
         "browser_download_url": "https://github.com/ublue-os/bazzite/releases/download/45.20261123.1/packages.json"
@@ -104,7 +104,7 @@
         "state": "uploaded",
         "size": 96,
         "digest": "sha256:c0aad5424c641d5e10fe612c9f26e6b7fb81eeb377977bbfcf6059eb319f6f3e",
-        "download_count": 1,
+        "download_count": 3,
         "created_at": "2026-11-23T23:05:40Z",
         "updated_at": "2026-11-23T23:05:40Z",
         "browser_download_url": "https://github.com/ublue-os/bazzite/releases/download/45.20261123.1/packages.json.sig"
@@ -140,7 +140,7 @@
         "state": "uploaded",
         "size": 3053,
         "digest": "sha256:0212e53b9cbf5c4aee7e133989e80d24eae1e61d57f3a91caa83c5493c2f01b8",
-        "download_count": 1,
+        "download_count": 3,
         "created_at": "2026-11-23T23:05:40Z",
         "updated_at": "2026-11-23T23:05:40Z",
         "browser_download_url": "https://github.com/ublue-os/bazzite/releases/download/45.20261123.1/packages.json.sigstore.json"
