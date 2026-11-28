@@ -68,7 +68,7 @@
         "state": "uploaded",
         "size": 1188352,
         "digest": "sha256:ebdee84502c2b31d0ca27562f9b21661da98fd2c6c9833c4da41263389e1a62b",
-        "download_count": 24,
+        "download_count": 25,
         "created_at": "2026-11-25T16:22:46Z",
         "updated_at": "2026-11-25T16:22:46Z",
         "browser_download_url": "https://github.com/ublue-os/bazzite/releases/download/45.20261125/packages.json"
